@@ -1,12 +1,32 @@
-# React + Vite
+# 📱 PopX
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**PopX** is a pixel-perfect mobile-style web application built with **React.js** and **Tailwind CSS**, designed to deliver a seamless and responsive user experience. The application UI is centered on the webpage and mimics a mobile interface for a modern, clean look.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🌐 [Visit PopX on Vercel](https://popx-dusky.vercel.app/)
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🎯 Pixel-perfect UI
+- 📱 Mobile interface centered on the desktop browser
+- ⚡ Smooth navigation between pages
+- 🌈 Styled with Tailwind CSS
+- 💡 Clean and maintainable React component structure
+
+## 🛠️ Tech Stack
+
+- [React.js](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Vite](https://vitejs.dev/) or [Create React App](https://create-react-app.dev/) *(based on your setup)*
+- [Vercel](https://vercel.com/) for deployment
+
+
+## 📦 Getting Started
+
+### 1. Clone the repo
+
+```bash
+git clone https://github.com/Tejas-b463/Popx.git
+cd popx
+npm install
